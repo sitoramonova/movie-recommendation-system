@@ -45,7 +45,7 @@ $similarityLEV (s1, s2) = 1 − \frac {LEV (s1, s2)} {max(|s1|, |s2|)} = \frac{L
 В нашем случае, мы сравниваем данные с помощью cosine similarity. Получаем массив , сортируем его и выводим значения, т.е названия фильмов, которые больше всего похожи на данный фильм, учитывая наш запрос. <br/>
 
 Теперь, давайте немного изменим наш запрос. Не будем учитывать режиссеров фильма, но учтем рейтинг и дату выхода. и посмотрим, как изменится вывод.<br/> 
-![Image alt](https://github.com/sitoramonova/movie-recommendation-system/blob/main/%D0%B4%D0%B8%20%D0%BA%D0%B0%D0%BF%D1%80%D0%B8%D0%BE.png)
+![Image alt](https://github.com/sitoramonova/movie-recommendation-system/blob/main/m_merged.png)
 
 
 
